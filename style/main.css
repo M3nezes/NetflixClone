@@ -29,6 +29,10 @@ header .container{
     margin-left: 10px;
 }
 
+.logo:hover{
+    cursor:pointer;
+}
+
 header nav a{
     text-decoration: none;
     color: #AAA;
@@ -100,4 +104,5 @@ header nav a:hover{
 
 .carrossel-gps{
     margin-top: 10px;
+    cursor: grab;
 }
